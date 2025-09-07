@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Colin Madland (@cmadland)
 
-Director, Technology-integrated Learning and Assessment  
-Trinity Western University, British Columbia, Canada
+
+**Director, Technology-integrated Learning and Assessment**
+*Trinity Western University, British Columbia, Canada*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmadland)](https://github.com/cmadland/github-readme-stats)
 
@@ -86,5 +87,6 @@ Trinity Western University, British Columbia, Canada
 ---
 
 > _“Always learning, always questioning, always striving for a more just, inclusive, and engaging learning experience.”_
+
 
 
