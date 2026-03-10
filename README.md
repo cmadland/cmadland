@@ -80,6 +80,7 @@ Trinity Western University, British Columbia, Canada
 - **Bluesky**: [@cmad.land](https://bsky.app/profile/cmad.land)
 - **GitHub**: [cmadland](https://github.com/cmadland)
 - **ORCiD**: [Colin Madland](https://orcid.org/0000-0002-1761-1903)
+- **Book a Meeting** [15 or 30 minutes](https://cal.com/cmadland)
 
 ---
 
